@@ -6,8 +6,8 @@ int main() {
 
 	int i;
 
-	 // program runs numbers from 1- 20
-	for (i = 1; i <= 20; i++)
+	 // program runs numbers from 1- 50
+	for (i = 1; i <= 50; i++)
 	{
 		 if (i % 3 == 0 && i % 5 == 0)
 		{
@@ -26,5 +26,6 @@ int main() {
 			cout << i << endl;
 		}
 	}
+	system("pause");
 	return 0;
 	}
