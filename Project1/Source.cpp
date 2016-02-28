@@ -26,6 +26,5 @@ int main() {
 			cout << i << endl;
 		}
 	}
-	system("pause");
 	return 0;
 	}
